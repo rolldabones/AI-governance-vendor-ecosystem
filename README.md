@@ -2,6 +2,7 @@
 From the IAPP, AI Governance Vendor Report 2026
 Report at: https://iapp.org/resources/article/ai-governance-vendor-report
 These are good sites to track, for resources and news re AI GRC.
+
 	1.	2021.ai — https://2021.ai/
 	2.	2B Advice LLC — https://2b-advice.com/de/#
 	3.	Accedere — https://accedere.io/
